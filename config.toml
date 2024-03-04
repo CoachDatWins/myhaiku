@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Hugo Blog"
+title = "Haiku: An Appreciation"
 
 [taxonomies]
   tag = "tags"
@@ -30,4 +30,4 @@ title = "Hugo Blog"
 [params]
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "You just made a Hugo blog from scratch."
+  homeText = "A Collection of haiku poems"
