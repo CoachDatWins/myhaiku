@@ -31,3 +31,5 @@ title = "Haiku: An Appreciation"
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
   homeText = "A Collection of haiku poems"
+
+  homeText = "A haiku poem follows the format: It has three lines.  It has five syllables in the first and third lines.  It has seven syllables in the second line."
